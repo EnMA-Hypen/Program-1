@@ -1,0 +1,10 @@
+{
+  "saldo": 10000.0,
+  "transactions": [
+    {
+      "type": "pemasukan",
+      "amount": 10000.0,
+      "timestamp": "2026-02-02T06:06:05.986501"
+    }
+  ]
+}
